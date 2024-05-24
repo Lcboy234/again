@@ -1,0 +1,147 @@
+The entries below is demonstrating the diary of weekly basis on how the progression is on the current project.
+
+1st October 2023
+
+"I am carrying out some research on how a web application can be developed by studying
+HTML, css and JavaScript in order to create the application. Booked an appointment with
+my supervisor on Thursday and discuss the progress of project plan. Figuring out how to
+write the timeline, risk assessment and references."
+
+
+8th October 2023
+
+"Project plan has been completed and submitted in this week with everything included.”
+
+
+22th October 2023
+
+"Back to learning HTML, css and JavaScript, progression has been slowed down due to bad
+time management. Meeting with supervisor is happening in the next day."
+
+
+29th October 2023
+
+"Decided to work on the login and register after completing the homepage which will be filled
+with products soon, working on routes and controller for back-end interface."
+
+
+5th November 2023
+
+"Working on the email and password validation within the JWT tokens to make sure the
+account is accessed to system, working on login screen and functionality, should be finished
+hopefully"
+
+
+7th November 2023
+
+"Successfully implemented the homepage interface using MERN and work on the server and
+database but unfortunately, it is not as expected as on the timescale.”
+
+
+11th November 2023
+
+"Spent time to study Redux, homepage, product page and cart page functionality. They are
+working as expectation. Ready to hand in the interim report and submit my codes"
+
+
+13th November 2023
+
+"Double checking with the product functionality where how admin can have access to it,
+make sure everything is working perfectly due to less knowledge on the Redux programming.
+Fortunately, it seems to be working out and items are displaying fine on my end."
+
+
+14th November 2023
+
+"While testing the product homepage on other PC with code only, database can be accessed through 
+different IP address, remotely controlling the webpage seems to work perfectly which shows that 
+codes should work anywhere with the correct link."
+
+
+18th November 2023
+
+"Currently trying to figure out how to work on the checkout section where it adds up the
+products’ price, working on the controller and routes seems to take quite a long time."
+
+
+22th November 2023
+
+"Planning to use PayPal for the payment methods however it does not seems to be checking
+out, maybe there is some problems with the sandbox link."
+
+
+25th November 2023
+
+"I think I should just spend some time, trying to change the colours of payment and mark
+delivered buttons while figuring out how PayPal would worked."
+
+
+29th November 2023
+
+"Still studying on PayPal sites where how to implement JavaScript for PayPal where there
+will be errors on not checking out."
+
+
+30th December 2023
+
+"Just back from Christmas, looking back into some of the old codes and should be getting handy
+to work with it while the time started."
+
+
+8th January 2024
+
+"Currently the program of admin panel is still under refinement on how the api and routes should go."
+
+
+15th January 2024
+
+"On the product page, I have build the write review sections for website visitors to leave their 
+opinions on the products"
+
+
+21th January 2024
+
+"Made a product carousal jsx for the homepage where it would look more lively by having that at the 
+bottom"
+
+
+7th February 2024
+
+"Haven't been really working on the project due to I would say laziness kicked in, been getting flu
+and sore throat lately I don't know how. Hopefully will get well soon."
+
+
+16th February 2024
+
+"More than a month until the final submission to be due in, getting kind of nervous, working on the 
+final report at the moment."
+
+
+25th February 2024
+
+"I've carried on working on the report, with the beginning part completed therefore still spending time
+trying to catch up."
+
+
+13th March 2024 
+
+"Working on finalising the program and checking for codes to see if they are correctly implemented.
+Everything is looking awesome to me, should see my supervisor in a couple of days."
+
+
+18th March 2024
+
+"Had a meeting with my supervisor today showing him my project demonstration videos, he does seems to look
+happy about it then I think should be great."
+
+
+26th March 2024
+
+"Still cannot believe they extended the deadline to 5th April. I am getting more nervous as the time comes
+while working on the report."
+
+
+9th April 2024
+
+"It is now 4am in the morning where I have taken an extension which have to due my work in 6 hours, everthing
+seems to be completed, although some can still be improved but I dont know how. Overall I am happy."
